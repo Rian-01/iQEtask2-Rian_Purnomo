@@ -3,7 +3,7 @@ package company;
 public class Herbivor extends Main{
 
     void food() {
-        System.out.println("Jenis makanan harus tumbuhan");
+        System.out.println("Jenis makanannya harus tumbuhan");
     }
     void teeth() {
         System.out.println("Jenis gigi harus tajam");

@@ -3,6 +3,7 @@ package company;
 public class Main {
     public static void main(String[] args) {
         //Code in here
+        System.out.println("##############################################");
         System.out.println("----------------Hewan Karnivora---------------");
         Carnivor animalCarnivor = new Carnivor();
         animalCarnivor.food();

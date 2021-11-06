@@ -3,7 +3,7 @@ package company;
 public class Carnivor extends Main{
 
     void food() {
-        System.out.println("Jenis makanan harus daging");
+        System.out.println("Jenis makanannya harus daging");
     }
     void teeth() {
         System.out.println("Jenis gigi harus tajam");
