@@ -7,7 +7,7 @@ public class BilPrima {
         int temp;
         boolean bil_Prima = true;
         Scanner scan = new Scanner(System.in);
-        System.out.println("Masukkan Angka /  Bilangan : ");
+        System.out.println("Masukkan Angka atau Bilangan : ");
 
         //input
         int num = scan.nextInt();
@@ -21,7 +21,7 @@ public class BilPrima {
 
         //Menentukan Bilangan prima atau tidak
         if (bil_Prima)
-            System.out.println(num + " adalah bilangan prima");
+            System.out.println(num + " merupakan bilangan prima");
         else
             System.out.println(num + " bukan bilangan prima");
     }
